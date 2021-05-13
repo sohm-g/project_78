@@ -1,0 +1,18 @@
+body{
+  text-align:center;
+}
+#firstp{
+  word-spacing:10px;
+  text-align:center;
+  font-size:80px;
+}
+#reason{
+  font-size:50px;
+}
+#image{
+  border-style:solid;
+  border-color:#212121;
+  border-radius:80px;
+  border:2px;
+  width:450px;
+  }
